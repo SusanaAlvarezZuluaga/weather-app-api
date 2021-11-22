@@ -6,7 +6,7 @@ This project contains the back-end code for a weather app. Specifically, a RESTf
 - In this API the data was retrieved by using [OpenWeather's API](https://openweathermap.org)
 - The API developed in this repository is used in the front-end of a weather app to retrieve data and display it.
 
-## How to run it in your computer
+## How to this project it in your computer
 
 1. Clone this repository
 2. Run the command npm install in your terminal. This will install in your project folder all the packages used in this project.
