@@ -12,6 +12,6 @@ This project contains the back-end code for a weather app. Specifically, a RESTf
 2. Run the command npm install in your terminal. This will install in your project folder all the packages used in this project.
 3. Access [OpenWeather's API](https://openweathermap.org) and create a user to get a key
 4. Create a .env file and put your api key and the port where you want to start the server. This .env file should include the following two variables:
-   API_KEY=
-   PORT=
+   - API_KEY=
+   - PORT=
 5. Run the command npm start or npm run dev to start the server
